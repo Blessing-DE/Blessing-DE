@@ -12,7 +12,7 @@ If you’re here, welcome! Stick around, maybe we’ll learn a trick or two toge
 
 ---
 
-## 🛠 Some Technologies & Tools I use are:
+## 🛠 Some Technologies & Tools I use for work:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
