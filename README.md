@@ -1,6 +1,6 @@
 # Hey, I’m Blessing and I am a Data Engineer👋
 
-I’ve always been amazed by stories hidden in numbers, trends, and patterns. That’s why I became a **Data Engineer**. I take messy, chaotic datasets and turn them into something that actually makes sense. Clean, organized, and ready to power decisions.
+I’ve always been amazed by stories hidden in numbers, trends, and patterns. That’s why I became a **Data Engineer**. I take messy, chaotic datasets and turn them into something that actually makes sense turning them into  datasets that are Clean, organized, and ready to power decisions.
 
 I spend my days writing **scripts that are reusable and reliable**, building scalable **pipelines**, and chasing down those sneaky data issues that wants to jeopardize informed decision-making. I love the feeling when a messy data finally clicks into place, or when a pipeline I built just works, every time.
 
